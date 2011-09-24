@@ -1,0 +1,9 @@
+The Sines programming language
+==============================
+
+Sines is a programming language that is mostly similar to Scheme.
+
+Sines is also the name of the compiler from Sines to JavaScript.
+It is implemented in Racket.
+
+Documentation coming soon.

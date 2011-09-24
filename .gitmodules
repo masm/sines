@@ -1,0 +1,3 @@
+[submodule "javascript.plt"]
+	path = externals/javascript
+	url = http://github.com/masm/javascript.plt.git
